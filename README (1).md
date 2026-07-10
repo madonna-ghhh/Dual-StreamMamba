@@ -2,7 +2,7 @@
 
 A per-patient deep learning model that predicts preictal (pre-seizure) vs. normal EEG segments using a dual-stream Mamba (state-space model) architecture. Version 2 focuses on curbing overfitting on small, largely synthetic per-patient datasets through stochastic weight averaging, a bottleneck classification head, and stronger regularization throughout.
 
-**Dataset:** [Seizure Prediction Dataset](https://www.kaggle.com/datasets/hebametwaly/seizure-prediction-dataset) by Heba Metwaly (CHB-MIT processed + augmented)
+**Dataset:** [Seizure Prediction Dataset] (CHB-MIT processed + augmented)
 
 ---
 
